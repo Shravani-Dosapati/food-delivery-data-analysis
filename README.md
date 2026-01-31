@@ -4,7 +4,7 @@
 This project demonstrates how to integrate and analyze data coming from **multiple real-world data sources and formats** (CSV, JSON, and SQL).  
 The goal is to create a **single source of truth dataset** for analysis and answer business-oriented questions related to food delivery operations.
 
-The project was completed as part of a data analytics / internship assessment.
+The project was completed as part of a data internship assessment.
 
 ---
 
