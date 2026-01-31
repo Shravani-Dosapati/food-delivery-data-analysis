@@ -67,5 +67,3 @@ The final dataset was used to answer analytical questions such as:
 All analysis is documented inside the Jupyter Notebook.
 
 ---
-
-## 📁 Repository Structure
